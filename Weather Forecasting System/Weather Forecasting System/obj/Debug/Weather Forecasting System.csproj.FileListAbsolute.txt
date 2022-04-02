@@ -1,0 +1,9 @@
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\bin\Debug\Weather Forecasting System.exe.config
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\bin\Debug\Weather Forecasting System.exe
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\bin\Debug\Weather Forecasting System.pdb
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather Forecasting System.csprojAssemblyReference.cache
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather_Forecasting_System.Form1.resources
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather_Forecasting_System.Properties.Resources.resources
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather Forecasting System.csproj.GenerateResource.cache
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather Forecasting System.exe
+C:\Users\SBL\Desktop\DISD2\2019 Sem 1-20200219T232536Z-001\2019 Sem 1\Programming 2A\Weather Forecasting System\Weather Forecasting System\obj\Debug\Weather Forecasting System.pdb
